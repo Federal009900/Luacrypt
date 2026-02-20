@@ -1,1 +1,0 @@
-print("This is being tested by luacrypt.")
